@@ -2,6 +2,7 @@
 This repository showcases a Language Translation model built using the Llama architecture. The model is trained to translate between multiple languages, leveraging datasets from Hugging Face and fine-tuned using LoRa (Low-Rank Adaptation) for enhanced performance.
 
 
+
 ## Features:
 1. Multilingual Translation: Translates between various languages efficiently.
 2. Llama Model: Powered by the state-of-the-art Llama architecture for language modeling.
